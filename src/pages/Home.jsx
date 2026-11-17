@@ -4,7 +4,7 @@ import { products } from "../data/products";
 import ProductCard from "../components/ProductCard";
 
 const steps = [
-  ["Pick your pieces", "Choose size and colour, then add to your cart."],
+  ["Pick your pieces", "Choose size and color, then add to your cart."],
   ["Send your order", "One tap opens WhatsApp with your order already written."],
   ["Confirm with us", "We confirm stock, agree the price and arrange delivery."],
 ];
